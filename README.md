@@ -1,10 +1,7 @@
-## Hi there 👋
+## A greenhand 's self-introdunction 
 
 <!--
 **jeojon/jeojon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on CV and auto-navigation
+
+
+- I' m learning the structure of yolo and the maddening ROS2
+
+Technical Skills: 
+- language : C++, Python, C(maybe...), Kotlin(learing...)
+- ROS2
