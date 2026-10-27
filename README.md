@@ -20,4 +20,6 @@ Technical Skills:
 - language : C++, Python, C(maybe...), Kotlin(learning...)
 - ROS2
 
+  By the way: Ubuntu is the best OS I've ever used!!I like it!
+
 Stay tuned!
