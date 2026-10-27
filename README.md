@@ -19,3 +19,5 @@
 Technical Skills: 
 - language : C++, Python, C(maybe...), Kotlin(learing...)
 - ROS2
+
+Stay tuned!
