@@ -17,7 +17,7 @@
 - I' m learning the structure of yolo and the maddening ROS2
 
 Technical Skills: 
-- language : C++, Python, C(maybe...), Kotlin(learing...)
+- language : C++, Python, C(maybe...), Kotlin(learning...)
 - ROS2
 
 Stay tuned!
